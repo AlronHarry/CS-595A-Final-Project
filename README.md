@@ -8,6 +8,7 @@ This project aims to classify images using three different algorithms - Logistic
 
 Requirements:
 -Python 3.0 or higher
+
 -NumPy
 -Matplotlib
 -Scikit-learn
