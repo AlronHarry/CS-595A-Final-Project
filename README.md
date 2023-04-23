@@ -28,7 +28,7 @@ This project aims to classify images using three different algorithms - Logistic
 * The program will load the Kaggle dataset and split it into training and testing sets.
 * The three classification algorithms will be trained on the training set without any sort of optimization.
 * The accuracies of each algorithm will be displayed.
-* The algorithms will be optimized via Hyperparamter Tuning & K-Fold Cross-Validation 
+* The algorithms will be optimized via Hyperparameter Tuning & K-Fold Cross-Validation 
 * The optimal parameters for each algorithm will be displayed.
 * The accuracies of each optimized algorithm will also be displayed along with the precision, recall, and f1-score (classification report). A confusion matrix will not be displayed because it will be a 1530x1530 matrix which will be difficult to interpret and visualize appropriately.
 * These metrics can then be used to determine the performance of each algorithm and the algorithms may be ranked based on these values.
