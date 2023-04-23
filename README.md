@@ -33,8 +33,8 @@ This project aims to classify images using three different algorithms - Logistic
 * The accuracies of each optimized algorithm will also be displayed along with the precision, recall, and f1-score (classification report). A confusion matrix will not be displayed because it will be a 1530x1530 matrix which will be difficult to interpret and visualize appropriately.
 * These metrics can then be used to determine the performance of each algorithm and the algorithms may be ranked based on these values.
 
-
-
+### **Execution**:
+* The program would probably take a VERY long time to run in completion (~5-7+ hours) based on your system's processing power. For the best computational time results, use a system with at least 16GB of RAM. However, once you run all cells, all results will be computed and displayed without any user interaction.
 
 ### **Acknowledgements**:
 * The Kaggle dataset was obtained from https://www.kaggle.com/datasets/dhruvildave/english-handwritten-characters-dataset?select=english.csv.
